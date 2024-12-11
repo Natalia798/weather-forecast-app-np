@@ -41,3 +41,12 @@ The **Weather Forecast App** provides real-time weather updates and a 5-day fore
 ## 🤝 **Acknowledgments**
 
 This project was developed as part of my learning journey at **IT School**, helping me strengthen my skills in web development and API integration.
+
+## 🌟 Explore More Projects  
+
+Here are some of my other projects:  
+
+- [Ovella](https://github.com/Natalia798/ovella) - Personalized meal planner based on menstrual cycle phases.  
+- [News App](https://github.com/Natalia798/news-app) - A React-based app for browsing and saving favorite news articles.   
+- [ITSchool Clone](https://github.com/Natalia798/website-clone-np) - A basic HTML/CSS clone of the ITSchool website.  
+
